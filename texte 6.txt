@@ -1,0 +1,6 @@
+Paypal/
+│
+├── index.html         (Page principale)
+├── style.css          (Styles du site)
+├── script.js          (Interactions et fonctionnalités)
+└── logo.png           (Facultatif, logo ou images)
